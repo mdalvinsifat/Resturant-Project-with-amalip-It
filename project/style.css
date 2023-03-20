@@ -1,0 +1,202 @@
+
+
+
+/* -------------------
+  HOME PAGE  END
+--------------------- */
+
+.bg-image1{
+    background-image: url(/Project-Images/header_section/header_background_images.jpg);
+ background-size: cover;
+ background-position: center;   
+}
+.navbar-color{
+    background-color: rgba(0, 0, 0, 0.653);
+}
+.navber-color a{
+    color:#ffffff;
+}
+
+.hom{
+    color: #d3a153;
+}
+.navber-color a:hover{
+    color:#d3a153;
+}
+
+.face-twitt:hover{
+    color: #d3a153;
+}
+.navber-color li:hover{
+    color:#d3a153;
+}
+
+.margin-auto{
+
+    margin:0px auto;
+}
+.border-left{
+border-right: 1px solid lightgray;
+}
+.Book{
+    text-decoration: none;
+    color: white;   
+    text-align: center;
+    display: inline-block;
+}
+.Book:hover{
+color: black;
+}
+.bgColor{
+    background-color: #c59d5f;
+}
+
+.bgColor:hover{
+    background-color: #d3a153;
+}
+.class{
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+}
+.info{
+    background-color: #d0ac72;
+    /* text-decoration: none;
+    font-size: 20px; */
+}
+
+.text-saparat{
+letter-spacing: 3px;
+}
+.pragrph{
+    font-weight: 200;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------
+  ALL MIDEL COOMENT START
+--------------------- */
+
+.bg-Image{
+    background-image: url(Project-Images/time_open_at_img/hungerhunt.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.card-design{
+    background-color:#1E1A18;
+    display: inline-block;
+    padding: 2%;
+    color: white;
+}
+.detelis{
+outline: 1px dashed #d3a153;
+}
+.time{
+    font-family: 'Great Vibes', cursive;
+    color:#d3a153;
+}
+.brack{
+    font-weight: 50;
+}
+
+.button a{
+    outline: 1px solid #d3a153; 
+    outline-offset: 8px;
+    border-radius: 30px;
+    color: #d3a153;
+    text-decoration: none;
+}
+.button a:hover{
+    color: #ffffff;
+}
+.Discover{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Great Vibes', cursive;
+    color:#d3a153;
+}
+.small-text{
+    font-weight: 100;
+    font-size: 14px;
+}
+.margin{
+    margin-top: 30px;
+}
+.color-text-number{
+    color:#d3a153;
+}
+.div{
+    text-align: justify;
+}
+span{
+    font-weight: 700;
+}
+.fontwight h5{
+    font-weight: 700;
+}
+.fontwight{
+    font-weight: 700;
+}
+/* .fottar-Image  */
+.fottar-Image{
+ background-image: url(/Project-Images/footer_img/background_img.jpg);
+ background-size: cover;
+ background-position: center;
+}
+
+.box{
+    color: #d3a153;
+}
+.faq{
+    border-left: 3px solid #d3a153;
+    padding-left: 3px;
+}
+.absoulet{
+    position: relative;
+}
+.absoulet1{
+top: 0px;
+left: 0px;
+}
+.border{
+    outline: 1px solid;
+    color: #d3a153;
+}
+.icon i{
+    font-size: 30px;
+ 
+}
+
+.icon-footer{
+    color: #ffffff97;
+}
+
+.icon-footer:hover{
+    color: #d3a153;
+}
+.class{
+    color: #d3a153;
+}
+.text{
+    color:#d3a153;
+}
+/* -------------------
+  ALL MIDEL COOMENT END
+--------------------- */
+
+
+/*--------- OUR GALLERY START------------*/
+
+.GALLE{
+    text-align: center;
+    margin-top: 50px;
+}
